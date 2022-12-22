@@ -5,7 +5,7 @@
 - {[eumaps](https://github.com/jfjelstul/eumaps)}: Tools to make maps of the European Union
 
 ## Data
-- []()
+- [Legislative Proposals in the European Union, 1965-2013](https://doi.org/10.7910/DVN/1GFLRM)
 
 ## Models
 - []()
