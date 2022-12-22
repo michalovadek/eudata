@@ -6,7 +6,7 @@
 
 ## Data
 - [Legislative Proposals in the European Union, 1965-2013](https://doi.org/10.7910/DVN/1GFLRM)
-- [European Union Sectoral Emissions Data (EUSED)] (https://doi.org/10.7910/DVN/DW7Y5W)
+- [European Union Sectoral Emissions Data (EUSED)](https://doi.org/10.7910/DVN/DW7Y5W)
 
 ## Models
 - []()
