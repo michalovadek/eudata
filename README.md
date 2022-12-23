@@ -23,3 +23,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [EMU Positions Dataset](http://dev.emuchoices.eu/data/emup/)
 - [Political Attention in the Council of the European Union](https://doi.org/10.7910/DVN/VQRFLN)
 - [European Union Policy-Making (EUPOL)](https://doi.org/10.7910/DVN/AZCAFA)
+- [Policy complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
