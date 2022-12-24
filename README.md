@@ -24,3 +24,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [Political Attention in the Council of the European Union](https://doi.org/10.7910/DVN/VQRFLN)
 - [European Union Policy-Making (EUPOL)](https://doi.org/10.7910/DVN/AZCAFA)
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
+- [Harmonized Eurobarometer 2004-2021](https://doi.org/10.7802/2458)
