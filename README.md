@@ -25,3 +25,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [European Union Policy-Making (EUPOL)](https://doi.org/10.7910/DVN/AZCAFA)
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
 - [Harmonized Eurobarometer 2004-2021](https://doi.org/10.7802/2458)
+- [The EU Free Movement of Goods Dataset](https://doi.org/10.7910/DVN/XJJ5N4)
