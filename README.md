@@ -31,3 +31,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [Comprehensive European Parliament Electoral Data (COMEPELDA)](https://doi.org/10.7910/DVN/GNRMTO)
 - [EUSpeech: A New Dataset of EU Elite Speeches](https://doi.org/10.7910/DVN/GKABNU)
 - [The Party Political Make-Up of EU Institutions, 1979 - 2003](https://doi.org/10.7910/DVN/B0WMX9)
+- [National Parliaments in the European Union Dataset (NPdata)](https://doi.org/10.7910/DVN/1BARB6)
