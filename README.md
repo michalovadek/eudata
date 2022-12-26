@@ -26,3 +26,8 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
 - [Harmonized Eurobarometer 2004-2021](https://doi.org/10.7802/2458)
 - [The EU Free Movement of Goods Dataset](https://doi.org/10.7910/DVN/XJJ5N4)
+- [EPRG MEP Surveys 2000, 2006, 2010 and 2015 combined](https://mepsurvey.eu/data-object/combinedsurveys/)
+- [Bowler and Farrell’s survey of the 1989-94 EP](https://mepsurvey.eu/data-object/bowler-and-farrell-survey-of-the-1989-94-ep/)
+- [Comprehensive European Parliament Electoral Data (COMEPELDA)](https://doi.org/10.7910/DVN/GNRMTO)
+- [EUSpeech: A New Dataset of EU Elite Speeches](https://doi.org/10.7910/DVN/GKABNU)
+- [The Party Political Make-Up of EU Institutions, 1979 - 2003](https://doi.org/10.7910/DVN/B0WMX9)
