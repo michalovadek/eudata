@@ -39,6 +39,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 
 #### Court of Justice
 - [The EU Free Movement of Goods Dataset](https://doi.org/10.7910/DVN/XJJ5N4) 
+- [GEOCOURT: Subnational Disparities in EU Law Use](https://euthority.eu/?page_id=795)
 
 #### Political communication
 - [European Commission press releases 1985-2020](https://doi.org/10.7910/DVN/UGGXUF)
