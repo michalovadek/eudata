@@ -24,6 +24,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
 
 #### European Council / Council
+- [Debates in the Council of the European Union](https://doi.org/10.7910/DVN/JCT3F7)
 - [Political Attention in the Council of the European Union](https://doi.org/10.7910/DVN/VQRFLN)
 - [Political issue attention in European Council Conclusions 1975-2014](http://www.policyagendas.eu/)
 
@@ -53,6 +54,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [Mannheim Eurobarometer Trendfile 1970-2002](https://doi.org/10.4232/1.10074)
 
 #### Other
+- [CMP-ParlGov Government Positions Data](https://wratil.eu/data)
 - [The Party Political Make-Up of EU Institutions, 1979-2003](https://doi.org/10.7910/DVN/B0WMX9)
 - [1999-2019 Chapel Hill Expert Survey (CHES)](https://www.chesdata.eu/ches-europe)
 - [Expert Survey of Party Positions on European Integration 1984-1996](https://www.lsu.edu/faculty/lray2/data/data.html)
