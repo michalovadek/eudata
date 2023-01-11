@@ -22,7 +22,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [EMU Positions Dataset](http://dev.emuchoices.eu/data/emup/)
 - [European Union Policy-Making (EUPOL)](https://doi.org/10.7910/DVN/AZCAFA)
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
-- [Berlin Infringement Database](https://www.polsoz.fu-berlin.de/en/polwiss/forschung/international/europa/bid/index.html)
+- [Berlin Infringement Database (BID)](https://www.polsoz.fu-berlin.de/en/polwiss/forschung/international/europa/bid/index.html)
 
 #### European Council / Council
 - [Debates in the Council of the European Union](https://doi.org/10.7910/DVN/JCT3F7)
