@@ -5,7 +5,13 @@ Thematic and cross-disciplinary collection of data resources relating to any fac
 ## R Packages
 - {[eurlex](https://github.com/michalovadek/eurlex)}: Retrieve Data on European Union Law
 - {[eumaps](https://github.com/jfjelstul/eumaps)}: Tools to make maps of the European Union
-- {[eums](https://github.com/jfjelstul/eums)}: Access to the European Union Member States (EUMS) Database
+- {[evoeu](https://github.com/jfjelstul/evoeu)}: The Evolution of European Union Law (EvoEU) Database
+- {[ecio](https://github.com/jfjelstul/ecio)}: The European Commission Internal Organization (ECIO) Database
+- {[euip](https://github.com/jfjelstul/euip)}: The European Union Infringement Procedure (EUIP) Database
+- {[eusa](https://github.com/jfjelstul/eusa)}: The European Union State Aid (EUSA) Database
+- {[eutr](https://github.com/jfjelstul/eutr)}: The European Union Technical Regulations (EUSA) Database
+- {[eums](https://github.com/jfjelstul/eums)}: The European Union Member States (EUMS) Database
+- {[iuropa](https://github.com/jfjelstul/iuropa)}: An R Interface to the IUROPA API (access to the IUROPA CJEU Database)
 
 ## Python Packages
 - {[pyeurlex](https://pypi.org/project/pyeurlex/)}: SPARQL queries for the EU Cellar repository
@@ -23,6 +29,10 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [European Union Policy-Making (EUPOL)](https://doi.org/10.7910/DVN/AZCAFA)
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
 - [Berlin Infringement Database (BID)](https://www.polsoz.fu-berlin.de/en/polwiss/forschung/international/europa/bid/index.html)
+- [The Evolution of European Union Law (EvoEU) Database](https://github.com/jfjelstul/evoeu)
+- [The European Union Infringement Procedure (EUIP) Database](https://github.com/jfjelstul/euip)
+- [The European Union State Aid (EUSA) Database](https://github.com/jfjelstul/eusa)
+- [The European Union Technical Regulations (EUTR) Database](https://github.com/jfjelstul/eutr)
 
 #### European Council / Council
 - [Debates in the Council of the European Union](https://doi.org/10.7910/DVN/JCT3F7)
@@ -38,8 +48,10 @@ Links should be directly to websites where data can be downloaded from, not to p
 #### European Commission 
 - [Composition of the College of Commissioners 1958-2014](https://doi.org/10.7910/DVN/A5ECON)
 - [Portfolios, structure, and leadership of European Commission Directorates-General 1958-2020](https://www.polsoz.fu-berlin.de/en/polwiss/forschung/international/de-fr/Datenbanken/PEU-Datenbank/index.html)
+- [The European Commission Internal Organization (ECIO) Database](https://github.com/jfjelstul/ecio)
 
 #### Court of Justice
+- [The IUROPA CJEU Database Platform](https://iuropa.pol.gu.se/CJEU-database/CJEU-database-platform)
 - [The EU Free Movement of Goods Dataset](https://doi.org/10.7910/DVN/XJJ5N4) 
 - [GEOCOURT: Subnational Disparities in EU Law Use](https://euthority.eu/?page_id=795)
 
@@ -62,3 +74,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [National Parliaments in the European Union Dataset (NPdata)](https://doi.org/10.7910/DVN/1BARB6) 
 - [EUSSUE: Measuring issue attention in the European Union from daily news coverage](https://doi.org/10.7910/DVN/CXZAGB)
 - [European Union Sectoral Emissions Data (EUSED)](https://doi.org/10.7910/DVN/DW7Y5W)
+- [The European Union Member State (EUMS) Database](https://github.com/jfjelstul/eums)
