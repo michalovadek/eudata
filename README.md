@@ -33,6 +33,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [The European Union Infringement Procedure (EUIP) Database](https://github.com/jfjelstul/euip)
 - [The European Union State Aid (EUSA) Database](https://github.com/jfjelstul/eusa)
 - [The European Union Technical Regulations (EUTR) Database](https://github.com/jfjelstul/eutr)
+- [VoteWatch Europe 2008-2022](https://simonhix.com/projects/)
 
 #### European Council / Council
 - [Debates in the Council of the European Union](https://doi.org/10.7910/DVN/JCT3F7)
