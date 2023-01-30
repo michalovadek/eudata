@@ -56,6 +56,10 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [The EU Free Movement of Goods Dataset](https://doi.org/10.7910/DVN/XJJ5N4) 
 - [GEOCOURT: Subnational Disparities in EU Law Use](https://euthority.eu/?page_id=795)
 
+#### Publications Office
+- [EU reference vocabularies and authority tables](https://op.europa.eu/en/web/eu-vocabularies/)
+- [data.europa.eu - The official portal for European data](https://data.europa.eu/en)
+
 #### Political communication
 - [European Commission press releases 1985-2020](https://doi.org/10.7910/DVN/UGGXUF)
 - [European Commissioner speeches 1985-2020](https://doi.org/10.7910/DVN/M2QFGM)
@@ -76,3 +80,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [EUSSUE: Measuring issue attention in the European Union from daily news coverage](https://doi.org/10.7910/DVN/CXZAGB)
 - [European Union Sectoral Emissions Data (EUSED)](https://doi.org/10.7910/DVN/DW7Y5W)
 - [The European Union Member State (EUMS) Database](https://github.com/jfjelstul/eums)
+
