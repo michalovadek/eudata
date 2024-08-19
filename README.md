@@ -17,6 +17,8 @@ Thematic and cross-disciplinary collection of data resources relating to any fac
 - {[pyeurlex](https://pypi.org/project/pyeurlex/)}: SPARQL queries for the EU Cellar repository
 - {[eurlex](https://pypi.org/project/eurlex/)}: An EUR-Lex parser for Python
 - {[eurlex2lexparency](https://github.com/Lexparency/eurlex2lexparency)}: Transforming documents from Eur-Lex to Lexparency
+- {[eurlex-toolbox](https://github.com/ndrplz/eurlex-toolbox)}: Parse Official Journals of the European Union
+- {[eurlex-parser](https://github.com/noworneverev/eurlex-parser)}: Fetch and parse Eur-Lex documents
 - {[haveyoursay](https://github.com/ghxm/haveyoursay)}: Retrieve and store data from the European Union's "Have Your Say" public consultation platform
 
 ## Data
