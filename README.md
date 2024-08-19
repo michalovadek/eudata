@@ -25,6 +25,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 
 #### Decision-making / Legislation
 - [Decision-making in the European Union (DEU-III)](https://doi.org/10.34810/data53)
+- [Policymaking in the European Union 1958-2021 (EUPROPS)](https://doi.org/10.7910/DVN/PU4HG8)
 - [Legislative Proposals in the European Union, 1965-2013](https://doi.org/10.7910/DVN/1GFLRM)
 - [EMU Positions Dataset](http://dev.emuchoices.eu/data/emup/)
 - [European Union Policy-Making (EUPOL)](https://doi.org/10.7910/DVN/AZCAFA)
